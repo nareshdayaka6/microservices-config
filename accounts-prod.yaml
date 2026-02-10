@@ -18,5 +18,5 @@ spring:
       enabled: true
 accounts:
   config:
-    env: prod
+    env: "{cipher}ff080a440923a602bda55b04a3bff72812557859914c29bbeeeb34557c528576"
 
